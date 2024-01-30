@@ -1,0 +1,5 @@
+deps/*.tar.gz
+deps/*.tar
+deps/*.tar.xz
+
+workspace/build

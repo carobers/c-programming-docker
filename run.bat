@@ -1,0 +1,1 @@
+docker run --name cprog -it -v %cd%\workspace\:/workspace --rm cdevenv
